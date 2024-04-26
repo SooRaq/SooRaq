@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soha Raqshi</h1>
 <h3 align="center">A developer from India</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="100%" align="center" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="100%" align="center" /> <!--Image--->
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<a href="https://www.linkedin.com/in/saiuttarkar">
+<a href="https://www.linkedin.com/in/SooRaq">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usai729&layout=compact&langs_count=8&card_width=400" width="100%" />
 </a>
 
