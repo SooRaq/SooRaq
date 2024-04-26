@@ -13,14 +13,7 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" height="30" />
-</p>
-<p align="center">
-  Do follow my GitHub profile
-</p>
-
-<h3 align="right">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="right">
-<a href="www.linkedin.com/in/s
-<p align="center">oha-raqshi-336b12268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiuttarkar" height="20" width="30" /></a>&nbsp;&nbsp;
+<p align="center"><a href="https://www.linkedin.com/in/soha-raqshi-336b12268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiuttarkar" height="20" width="30" /></a>&nbsp;&nbsp;
 </p>
