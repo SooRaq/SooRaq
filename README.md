@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Soha Raqshi</h1>
 <p align="center">
-<img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://www.google.com/imgres?q=pixel%20cat%20gifs&imgurl=https%3A%2F%2Fi.gifer.com%2F17xo.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2F17xo&docid=7VzlwKoR6hVJmM&tbnid=Sfh6teK3myhL0M&vet=12ahUKEwiDlMne1-SFAxWWs1YBHVySDkUQM3oECEEQAA..i&w=500&h=198&hcb=2&ved=2ahUKEwiDlMne1-SFAxWWs1YBHVySDkUQM3oECEEQAA#imgrc=H4Ju0m5HbDlyLM&imgdii=VnLexedeujfU3M)" width="100%" height="100%" align="center" /> <!--Image--->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="100%" align="center" /> <!--Image--->
 </p>
 
 <p align="center">
